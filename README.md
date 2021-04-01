@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alka Rani</h1>
-<h3 align="center">A aspiring frontend developer and a keen learner</h3>
+<h3 align="center">A aspiring frontend developer and a keen learner :octocat:</h3>
 
 - 🔭 I’m currently working on **Full Stack Web Development**
 
