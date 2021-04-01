@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alka Rani</h1>
-<h3 align="center">A aspiring frontend developer and keen learner</h3>
+<h3 align="center">A aspiring frontend developer and a keen learner</h3>
 
 - 🔭 I’m currently working on **Full Stack Web Development**
 
@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **some innovative projects**
 
-- 💬 Ask me about **C,C++,SQL,JAVA and projects I've worked on.**
+- 💬 Ask me about **C,C++,SQL,JAVA and projects I've worked on**
 
 - 📫 How to reach me **ralka4776@gmail.com**
 
