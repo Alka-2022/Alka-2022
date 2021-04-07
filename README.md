@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px"/>, I'm <a href="https://alka-2022.me/" target="_blank">Alka</a></h1>
+<h1 align="center">Hey <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px"/>, I'm Alka</a></h1>
 
 <h3 align="center"> An aspiring Frontend developer and a keen learner! :octocat:
 </h3>
